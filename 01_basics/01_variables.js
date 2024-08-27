@@ -5,6 +5,7 @@ account_City = "Jaipur"
 // accountID = 2 
 /*
 use const and let for variable declaration in javascript
+use console.table([a1,a2,... an]) to print multiple variables in one command
 */
 accountEmail = "athyu2gmail.com"
 accountPassword = "57463"
